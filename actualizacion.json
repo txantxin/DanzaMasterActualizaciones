@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "fecha":  "2026-06-03",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.3/DanzaMaster_Update_1.0.3.zip",
+    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.4/DanzaMaster_Update_1.0.4.zip",
     "obligatoria":  false,
-    "descripcion":  "Elimina migracion Access del producto, corrige base SQL solo lectura y prepara instalacion inicial.",
-    "sha256":  "29d0fb829fe2587ac0bf257723bbbde4d4192014a692ed7e989e756722a370c3"
+    "descripcion":  "Corrige permisos de ProgramData para SQL Server y prepara publicacion Visual Studio.",
+    "sha256":  "f65ca3a5cec9b71acaa09c74b90aeaeec421012550ebbc202ba37ba3931e1f69"
 }
