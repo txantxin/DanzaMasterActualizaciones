@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.5",
-    "fecha":  "2026-06-03",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.5/DanzaMaster_Update_1.0.5.zip",
+    "version":  "0.0.0.1",
+    "fecha":  "2026-06-05",
+    "urlDescarga":  "",
     "obligatoria":  false,
-    "descripcion":  "Incorpora el icono oficial de Danza Master en el ejecutable y publicacion.",
-    "sha256":  "e6a5a60a6462c7fca3bc247ef00142856c9e99546cef3a83c9159850719254ed"
+    "descripcion":  "Version base actual. Sin actualizacion pendiente.",
+    "sha256":  ""
 }
