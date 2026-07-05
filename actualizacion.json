@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "fecha":  "2026-07-05",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.2/DanzaMaster_Update_1.0.2.zip",
+    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.3/DanzaMaster_Update_1.0.3.zip",
     "obligatoria":  false,
-    "descripcion":  "Actualiza Danza Master 1.0.2 con correcciones de clases, profesorado y normalizacion de fotos en alumnos, profesores y usuarios.",
-    "sha256":  "7f8d65c1802dfcd05fab76c8e5e7775008d136f4131c85bfff62a3687bc42840"
+    "descripcion":  "Actualiza Danza Master 1.0.3 y corrige la instalacion de actualizaciones en Program Files solicitando permisos de administrador.",
+    "sha256":  "0a911216fdbbc2c4e58707cf0e6496b9df70cac099946554f13f6e6b4a53ed60"
 }
