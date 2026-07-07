@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "fecha":  "2026-07-07",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.4/DanzaMaster_Update_1.0.4.zip",
+    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.5/DanzaMaster_Update_1.0.5.zip",
     "obligatoria":  false,
-    "descripcion":  "Actualiza la gestion de informes y publica los campos de la plantilla InscripcionDanzaMenor.",
-    "sha256":  "dbf1d15ecd62626dfd13a6f878443bb2ce7e19e66f09dd46da21377d30b149f8"
+    "descripcion":  "Actualiza la gestion de informes y fuerza la importacion de la plantilla Inscripcion danza menor con sus campos.",
+    "sha256":  "140a006ccc6cf85240b678f42779d0cc77ba8f33704be27a555fb549b5aff2c4"
 }
