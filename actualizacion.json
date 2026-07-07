@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "fecha":  "2026-07-07",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.7/DanzaMaster_Update_1.0.7.zip",
+    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.8/DanzaMaster_Update_1.0.8.zip",
     "obligatoria":  false,
-    "descripcion":  "Corrige la verificacion de estructura para crear Profesores.Alias en bases existentes.",
-    "sha256":  "70fc61d339340f314e9dc564162f7b0fa0c71be67498b5ff78e0e5aaff2bd99f"
+    "descripcion":  "Mejora el flujo de actualizacion automatica: aviso informativo, barra de progreso e instalacion continuada.",
+    "sha256":  "6fcebc917ed8985fbcd2e243423b9c5f25fdf64b9a256d2b5cbe5caf5f2c65a2"
 }
