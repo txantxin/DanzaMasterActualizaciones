@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.12",
   "fecha": "2026-10-21",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.10/DanzaMaster_Update_1.0.10.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.12/DanzaMaster_Update_1.0.12.zip",
   "obligatoria": false,
-  "descripcion": "Alta de alumnos mayores de edad. Profesores y número de Seguridad Social. Se revisa y se optimiza la ayuda.",
-  "sha256": "598fd64b5d4677ded0a66891d75b9bc93100174414357a799427c90d59e40ed6"
+  "descripcion": "Grupos familiares y ventanas de actualización con progreso.",
+  "sha256": "aa5d8ab42fc2a392433f40e0b9c69e13ebfc3452c87d2fc3cf9762df861499c0"
 }
