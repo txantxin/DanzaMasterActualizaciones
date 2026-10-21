@@ -1,8 +1,8 @@
-﻿{
-    "version":  "1.0.9",
-    "fecha":  "2026-10-19",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.9/DanzaMaster_Update_1.0.9.zip",
-    "obligatoria":  false,
-    "descripcion":  "Borrado selectivo, recuperación de contraseña, tutores autorizados, alias, segundo apellido y novedades de actualización.",
-    "sha256":  "faecf53eff8cdf9a55e07b1fdff25a8da5d397a1e62bf1de1c91967326b4c6b3"
+{
+  "version": "1.0.10",
+  "fecha": "2026-10-21",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.10/DanzaMaster_Update_1.0.10.zip",
+  "obligatoria": false,
+  "descripcion": "Alta de alumnos mayores de edad. Profesores y número de Seguridad Social. Se revisa y se optimiza la ayuda.",
+  "sha256": "c1faffbc67bdf10f2746a1c5112673e88ed9de0e878d16e12af3a12252206f2e"
 }
