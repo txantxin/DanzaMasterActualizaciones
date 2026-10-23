@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
-  "fecha": "2026-10-21",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.12/DanzaMaster_Update_1.0.12.zip",
+  "version": "1.0.13",
+  "fecha": "2026-10-23",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.13/DanzaMaster_Update_1.0.13.zip",
   "obligatoria": false,
-  "descripcion": "Grupos familiares y ventanas de actualización con progreso.",
-  "sha256": "aa5d8ab42fc2a392433f40e0b9c69e13ebfc3452c87d2fc3cf9762df861499c0"
+  "descripcion": "Casillas de verificación en las listas y segundo número de emergencia para alumnos mayores de edad.",
+  "sha256": "8c0f8eb2f01fcc5102dca30cdcd54f155bc5128d7566ede56c48d7dc82059ea3"
 }
