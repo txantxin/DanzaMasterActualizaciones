@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "fecha": "2026-10-28",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.15/DanzaMaster_Update_1.0.15.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.16/DanzaMaster_Update_1.0.16.zip",
   "obligatoria": false,
-  "descripcion": "Configuración y consulta del terminal de registros de jornada; corrección de nombres y apellidos compuestos.",
-  "sha256": "58a2c555900e372bff0e7249eb2be63913b344473bb7b0939708a5e4539520c5"
+  "descripcion": "Gestión operativa del terminal de registros de jornada, confirmación de resultados y auditoría. Requiere actualizar el servicio del servidor para operar desde clientes.",
+  "sha256": "c42a32613c691092310ec23bc388f586d7dd93ed8441d3ff4a13f5982ce4dc3b"
 }
