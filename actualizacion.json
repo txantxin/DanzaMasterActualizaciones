@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "fecha": "2026-10-27",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.14/DanzaMaster_Update_1.0.14.zip",
+  "version": "1.0.15",
+  "fecha": "2026-10-28",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.15/DanzaMaster_Update_1.0.15.zip",
   "obligatoria": false,
-  "descripcion": "Teléfonos prioritarios, mejoras del registro de jornada y avisos de actualización.",
-  "sha256": "c1382e16f725a8607d3b6506894f7e494542ff6267109a05530e69abe5698471"
+  "descripcion": "Configuración y consulta del terminal de registros de jornada; corrección de nombres y apellidos compuestos.",
+  "sha256": "58a2c555900e372bff0e7249eb2be63913b344473bb7b0939708a5e4539520c5"
 }
