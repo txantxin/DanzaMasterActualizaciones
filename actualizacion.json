@@ -1,8 +1,8 @@
-﻿{
-    "version":  "1.0.17",
-    "fecha":  "2026-10-29",
-    "urlDescarga":  "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.17/DanzaMaster_Update_1.0.17.zip",
-    "obligatoria":  false,
-    "descripcion":  "Mejorada la gestión del terminal desde Danza Master. Requiere actualizar el servicio del terminal en el servidor.",
-    "sha256":  "f7bd7241c91041dce0d82531caf2c68cb522f32103cb3fee85be7554c5128f67"
+{
+  "version": "1.0.18",
+  "fecha": "2026-10-30",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.18/DanzaMaster_Update_1.0.18.zip",
+  "obligatoria": false,
+  "descripcion": "Gestión de usuarios del terminal, consulta de autorizados y segundo apellido y apellidos compuestos.",
+  "sha256": "aa42f8cfb70f7eda796967b7dd8dcee5b78d45e5dca216cb35c7e5851962e4e5"
 }
