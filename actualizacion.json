@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "fecha": "2026-11-01",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.23/DanzaMaster_Update_1.0.23.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.24/DanzaMaster_Update_1.0.24.zip",
   "obligatoria": false,
-  "descripcion": "Registros por persona y fecha, entradas y salidas desplegables y clases relacionadas con la presencia registrada.",
-  "sha256": "d2db791a55197604ca3aabb174fc76d9205949aa76228415e71874065692ccd5"
+  "descripcion": "Corrección de la visualización de usuarios del terminal.",
+  "sha256": "ee467cedaca3a724e5096a85730647ef320bfc9cb5c1b7e338457881472ccc2d"
 }
