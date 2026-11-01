@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "fecha": "2026-11-01",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.22/DanzaMaster_Update_1.0.22.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.23/DanzaMaster_Update_1.0.23.zip",
   "obligatoria": false,
-  "descripcion": "Sincronización de fichajes con el terminal, conservación de históricos y simplificación de registros originales.",
-  "sha256": "c1466374fef8770f5343f246c4272261c5a7acdb6ee397a0b48290adff2d287c"
+  "descripcion": "Registros por persona y fecha, entradas y salidas desplegables y clases relacionadas con la presencia registrada.",
+  "sha256": "d2db791a55197604ca3aabb174fc76d9205949aa76228415e71874065692ccd5"
 }
