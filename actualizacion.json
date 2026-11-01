@@ -1,8 +1,8 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "fecha": "2026-11-01",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.21/DanzaMaster_Update_1.0.21.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.22/DanzaMaster_Update_1.0.22.zip",
   "obligatoria": false,
-  "descripcion": "Mejoras en la presentación de los registros originales de jornada, columnas y leyendas.",
-  "sha256": "1ff09a5b4bd53b86eb0f61d08a6712cd208451a2ae397bf60cd3584b930321e3"
+  "descripcion": "Sincronización de fichajes con el terminal, conservación de históricos y simplificación de registros originales.",
+  "sha256": "c1466374fef8770f5343f246c4272261c5a7acdb6ee397a0b48290adff2d287c"
 }
