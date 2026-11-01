@@ -1,8 +1,8 @@
 {
-  "version": "1.0.19",
-  "fecha": "2026-10-31",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.19/DanzaMaster_Update_1.0.19.zip",
+  "version": "1.0.20",
+  "fecha": "2026-11-01",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.20/DanzaMaster_Update_1.0.20.zip",
   "obligatoria": false,
-  "descripcion": "Mejoras en la gestión del terminal, lectura de tarjetas y conservación de vinculaciones históricas.",
-  "sha256": "7fa5d9083cd904b2b106d2fbc72816b50b209c4dbdfcaf0b934c8a8cd9675810"
+  "descripcion": "Mejoras en la gestión del terminal, registro e indicadores de huellas y novedades acumuladas de las actualizaciones.",
+  "sha256": "ba97ef4995c4ffc2f3c3fed1e55c2abe2578134f63526785e31293c8c4b74b89"
 }
