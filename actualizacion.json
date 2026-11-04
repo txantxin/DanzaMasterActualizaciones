@@ -1,8 +1,8 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "fecha": "2026-11-04",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.27/DanzaMaster_Update_1.0.27.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.28/DanzaMaster_Update_1.0.28.zip",
   "obligatoria": false,
-  "descripcion": "Corrección de la edición de usuarios del terminal con la opción Sin vincular.",
-  "sha256": "99137d49da7568fa4f7ddba4649de968c748e7724eae9a81992f9fd0dd2abc18"
+  "descripcion": "Espera de desbloqueo durante la instalación, diagnóstico completo y versión simplificada en la ayuda.",
+  "sha256": "47e4ec24a32ae931a1a3341782e7820a059c37a50503e5bba84a634bae49aa7a"
 }
