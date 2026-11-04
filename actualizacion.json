@@ -1,8 +1,8 @@
 {
-  "version": "1.0.24",
-  "fecha": "2026-11-01",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.24/DanzaMaster_Update_1.0.24.zip",
+  "version": "1.0.25",
+  "fecha": "2026-11-04",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.25/DanzaMaster_Update_1.0.25.zip",
   "obligatoria": false,
-  "descripcion": "Corrección de la visualización de usuarios del terminal.",
-  "sha256": "ee467cedaca3a724e5096a85730647ef320bfc9cb5c1b7e338457881472ccc2d"
+  "descripcion": "Corrección de apellidos, diagnóstico del terminal y mejoras en la consulta de registros.",
+  "sha256": "49dd67a8c604bc9e4c0cb9bba6eb130950145096575070fb0aa5e5c15c3c2042"
 }
