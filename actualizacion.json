@@ -1,8 +1,8 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "fecha": "2026-11-04",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.28/DanzaMaster_Update_1.0.28.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.29/DanzaMaster_Update_1.0.29.zip",
   "obligatoria": false,
-  "descripcion": "Espera de desbloqueo durante la instalación, diagnóstico completo y versión simplificada en la ayuda.",
-  "sha256": "47e4ec24a32ae931a1a3341782e7820a059c37a50503e5bba84a634bae49aa7a"
+  "descripcion": "Gestion del terminal: registro de huella, altas sin tarjeta ni PIN, alias manual, visualizacion del PIN y registros originales.",
+  "sha256": "08b5ac2a92751bd39ba018dbe122c9426ed4818e30a0b8187fd1209c7b244271"
 }
