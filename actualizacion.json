@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "fecha": "2026-11-04",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.26/DanzaMaster_Update_1.0.26.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.27/DanzaMaster_Update_1.0.27.zip",
   "obligatoria": false,
-  "descripcion": "Mejoras en la gestión de usuarios, PIN y registro de huellas del terminal.",
-  "sha256": "7d76d2d8ae2a076a430ee6ec702bead3812de554aca9d1bbe48b6c8958fe2496"
+  "descripcion": "Corrección de la edición de usuarios del terminal con la opción Sin vincular.",
+  "sha256": "99137d49da7568fa4f7ddba4649de968c748e7724eae9a81992f9fd0dd2abc18"
 }
