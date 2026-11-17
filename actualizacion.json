@@ -1,8 +1,8 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "fecha": "2026-11-17",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.30/DanzaMaster_Update_1.0.30.zip",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.31/DanzaMaster_Update_1.0.31.zip",
   "obligatoria": false,
-  "descripcion": "Mejoras en las bajas y reactivaciones de fichas, conservación del historial de profesores, gestión de clases y packs, filtros de alumnos y ajustes de mensualidades.",
-  "sha256": "76b39a1b375beed1e6bd5cf091fb7534192a1f0549e61c57a4c217a949c79192"
+  "descripcion": "Enlace de eliminación definitiva y selector de alumnos ampliado con orden por apellido o nombre.",
+  "sha256": "fcdc7a2f1e291050a8af8191e2f142379a31fa1f406f364a103ffbeaa5c53db8"
 }
