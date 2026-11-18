@@ -1,8 +1,8 @@
 {
-  "version": "1.0.31",
-  "fecha": "2026-11-17",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.31/DanzaMaster_Update_1.0.31.zip",
+  "version": "1.0.32",
+  "fecha": "2026-11-18",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.32/DanzaMaster_Update_1.0.32.zip",
   "obligatoria": false,
-  "descripcion": "Enlace de eliminación definitiva y selector de alumnos ampliado con orden por apellido o nombre.",
-  "sha256": "fcdc7a2f1e291050a8af8191e2f142379a31fa1f406f364a103ffbeaa5c53db8"
+  "descripcion": "Eventos y cumpleaños, fecha de nacimiento del personal, y fotos y documentos compartidos entre academia y clientes. Actualizar primero el ordenador de la academia y después los clientes.",
+  "sha256": "bbd1e46d129d2f930ae69fb6b662b0ac71b87b7133616205a68d734e0c0a7662"
 }
