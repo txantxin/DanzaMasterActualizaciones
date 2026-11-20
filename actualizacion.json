@@ -1,8 +1,8 @@
 {
-  "version": "1.0.32",
-  "fecha": "2026-11-18",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.32/DanzaMaster_Update_1.0.32.zip",
+  "version": "1.0.33",
+  "fecha": "2026-11-20",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.33/DanzaMaster_Update_1.0.33.zip",
   "obligatoria": false,
-  "descripcion": "Eventos y cumpleaños, fecha de nacimiento del personal, y fotos y documentos compartidos entre academia y clientes. Actualizar primero el ordenador de la academia y después los clientes.",
-  "sha256": "bbd1e46d129d2f930ae69fb6b662b0ac71b87b7133616205a68d734e0c0a7662"
+  "descripcion": "Preparación de clases y packs por periodos, historiales, cobro mensual o por curso completo, traspasos y devoluciones, detalle de clases, fotos en la parrilla y escaneo con la ventana de Windows. Actualizar primero la academia y después todos los clientes.",
+  "sha256": "5eb1821a185844197b76448597cde224b305acaeeb907e12749ef0963887dca3"
 }
