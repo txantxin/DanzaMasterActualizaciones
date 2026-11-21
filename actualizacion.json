@@ -1,8 +1,8 @@
 {
-  "version": "1.0.33",
-  "fecha": "2026-11-20",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.33/DanzaMaster_Update_1.0.33.zip",
+  "version": "1.0.34",
+  "fecha": "2026-11-21",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.34/DanzaMaster_Update_1.0.34.zip",
   "obligatoria": false,
-  "descripcion": "Preparación de clases y packs por periodos, historiales, cobro mensual o por curso completo, traspasos y devoluciones, detalle de clases, fotos en la parrilla y escaneo con la ventana de Windows. Actualizar primero la academia y después todos los clientes.",
-  "sha256": "5eb1821a185844197b76448597cde224b305acaeeb907e12749ef0963887dca3"
+  "descripcion": "Documentos internos de alta y autorizaciones, gestión de matrícula de registro y retirada del sistema antiguo de plantillas. Cerrar Danza Master en todos los puestos y actualizar primero la academia; después, todos los clientes. La emisión del nuevo modelo de factura sigue pendiente.",
+  "sha256": "e4a5e38e0fc89b4df9db8d828b4535fe466525f754500972272d7b921a8a1ad1"
 }
