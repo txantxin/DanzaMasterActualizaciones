@@ -1,8 +1,8 @@
 {
-  "version": "1.0.35",
-  "fecha": "2026-11-21",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.35/DanzaMaster_Update_1.0.35.zip",
+  "version": "1.0.36",
+  "fecha": "2026-11-22",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.36/DanzaMaster_Update_1.0.36.zip",
   "obligatoria": false,
-  "descripcion": "Alumnos de Administración y Secretaría: documentación, DNI, tutores, permisos de recogida y salida, revisión de datos y matrícula de registro. Historial e indicadores de la parrilla revisados. Actualice primero el ordenador de la academia y después los clientes.",
-  "sha256": "e6850aa4e619bcb017d997ab0d55547f536e2ba171abc31f9d94003f3e87e2e5"
+  "descripcion": "Profesores y Usuarios: iconos de DNI y foto, distribución de datos y bloqueos de identidad. Usuarios nuevos desde 18 años. Disciplinas y niveles en negro con selección en negrita. Ajustes de documentación y diseño editable en Designer.",
+  "sha256": "90449e380463b36302bf82027696b809ac50d457ab9613da8b959e6be5647829"
 }
