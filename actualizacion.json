@@ -1,8 +1,8 @@
 {
-  "version": "1.0.36",
-  "fecha": "2026-11-22",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.36/DanzaMaster_Update_1.0.36.zip",
+  "version": "1.0.37",
+  "fecha": "2026-11-24",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.37/DanzaMaster_Update_1.0.37.zip",
   "obligatoria": false,
-  "descripcion": "Profesores y Usuarios: iconos de DNI y foto, distribución de datos y bloqueos de identidad. Usuarios nuevos desde 18 años. Disciplinas y niveles en negro con selección en negrita. Ajustes de documentación y diseño editable en Designer.",
-  "sha256": "90449e380463b36302bf82027696b809ac50d457ab9613da8b959e6be5647829"
+  "descripcion": "Cursos actual y próximo, recuperación de clases sin duplicados, retirada protegida con historial, panel de Secretaría y ajustes de documentación y formularios.",
+  "sha256": "06784f43bc86d0321b9261d6034658bd0ea16a38b1ef22bae2d747d503ce141b"
 }
