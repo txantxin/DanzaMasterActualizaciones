@@ -1,8 +1,8 @@
 {
-  "version": "1.0.37",
-  "fecha": "2026-11-24",
-  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.37/DanzaMaster_Update_1.0.37.zip",
+  "version": "1.0.38",
+  "fecha": "2026-11-25",
+  "urlDescarga": "https://github.com/txantxin/DanzaMasterActualizaciones/releases/download/v1.0.38/DanzaMaster_Update_1.0.38.zip",
   "obligatoria": false,
-  "descripcion": "Cursos actual y próximo, recuperación de clases sin duplicados, retirada protegida con historial, panel de Secretaría y ajustes de documentación y formularios.",
-  "sha256": "06784f43bc86d0321b9261d6034658bd0ea16a38b1ef22bae2d747d503ce141b"
+  "descripcion": "Colores por disciplina y trama en música; editor común de nombre de aula; corrección del selector Actual y Próximo.",
+  "sha256": "7bec113b8c8d704c43aa62012d1a8ab75e869fee35260f93c6d9a542b0253923"
 }
